@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "sadasdsas",
+  "info": {
+    "singularName": "sadasdsa",
+    "pluralName": "sadasdsas",
+    "displayName": "sadasdsa"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "asdasdas": {
+      "type": "string"
+    }
+  }
+}
